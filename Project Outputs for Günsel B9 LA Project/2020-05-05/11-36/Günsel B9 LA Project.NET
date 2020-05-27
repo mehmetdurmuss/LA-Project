@@ -1,0 +1,206 @@
+Wire List
+
+<<< Component List >>>
+X001                            X1             
+X005                            X2             
+X006                            X3             
+X002                            X4             
+X007                            X5             
+X008                            X6             
+X002                            X7             
+X009                            X8             
+X010                            X9             
+X003                            X10            
+X011                            X11            
+X012                            X12            
+X003                            X13            
+X013                            X14            
+X014                            X15            
+X004                            X16            
+X015                            X17            
+X016                            X18            
+X004                            X19            
+X017                            X20            
+X018                            X21            
+X001                            X22            
+X019                            X23            
+X020                            X24            
+X002                            X25            
+X021                            X26            
+X022                            X27            
+X003                            X28            
+X023                            X29            
+X024                            X30            
+X003                            X31            
+
+<<< Wire List >>>
+
+  NODE  REFERENCE  PIN #   PIN NAME       PIN TYPE    PART VALUE
+
+[00001] AAA42-X WH 0.35
+        X28        12      SignalC20-2-C  PASSIVE     X003
+        X30        2       SignalC20-2-C  PASSIVE     X024
+
+[00002] AAA41-X BK 0.35
+        X28        11      SignalC20-1-C  PASSIVE     X003
+        X30        1       SignalC20-1-C  PASSIVE     X024
+
+[00003] AAA40-X WH 0.35
+        X28        10      SignalC19-2-C  PASSIVE     X003
+        X29        2       SignalC18-2-C  PASSIVE     X023
+
+[00004] AAA39-X BK 0.35
+        X28        9       SignalC19-1-C  PASSIVE     X003
+        X29        1       SignalC19-1-C  PASSIVE     X023
+
+[00005] AAA38-X WH 0.35
+        X25        12      SignalC18-2-B  PASSIVE     X002
+        X27        2       SignalC18-2-C  PASSIVE     X022
+
+[00006] AAA37-X BK 0.35
+        X25        11      SignalC18-1-B  PASSIVE     X002
+        X27        1       SignalC18-1-C  PASSIVE     X022
+
+[00007] AAA36-X WH 0.35
+        X25        10      SignalC17-2-B  PASSIVE     X002
+        X26        2       SignalC17-2-B  PASSIVE     X021
+
+[00008] AAA35-X BK 0.35
+        X25        9       SignalC17-1-B  PASSIVE     X002
+        X26        1       SignalC17-1-B  PASSIVE     X021
+
+[00009] AAA32-X WH 0.35
+        X22        8       SignalC16-2-A  PASSIVE     X001
+        X24        2       SignalC16-2-A  PASSIVE     X020
+
+[00010] AAA31-X BK 0.35
+        X22        7       SignalC16-1-A  PASSIVE     X001
+        X24        1       SignalC16-1-A  PASSIVE     X020
+
+[00011] AAA30-X WH 0.35
+        X22        6       SignalC15-2-A  PASSIVE     X001
+        X23        2       SignalC15-2-A  PASSIVE     X019
+
+[00012] AAA29-X BK 0.35
+        X22        5       SignalC15-1-A  PASSIVE     X001
+        X23        1       SignalC15-1-A  PASSIVE     X019
+
+[00013] AAA28-X WH 0.35
+        X19        8       SignalC14-2-D  PASSIVE     X004
+        X21        2       SignalC14-2-D  PASSIVE     X018
+
+[00014] AAA27-X BK 0.35
+        X19        7       SignalC14-1-D  PASSIVE     X004
+        X21        1       SignalC14-1-D  PASSIVE     X018
+
+[00015] AAA26-X WH 0.35
+        X19        6       SignalC13-2-D  PASSIVE     X004
+        X20        2       SignalC13-2-D  PASSIVE     X017
+
+[00016] AAA25-X BK 0.35
+        X19        5       SignalC13-1-D  PASSIVE     X004
+        X20        1       SignalC13-1-D  PASSIVE     X017
+
+[00017] AAA24-X WH 0.35
+        X16        4       SignalC12-2-D  PASSIVE     X004
+        X18        2       SignalC12-2-D  PASSIVE     X016
+
+[00018] AAA23-X BK 0.35
+        X16        3       SignalC12-1-D  PASSIVE     X004
+        X18        1       SignalC12-1-D  PASSIVE     X016
+
+[00019] AAA22-X WH 0.35
+        X16        2       SignalC11-2-D  PASSIVE     X004
+        X17        2       SignalC11-2-D  PASSIVE     X015
+
+[00020] AAA21-X BK 0.35
+        X16        1       SignalC11-1-D  PASSIVE     X004
+        X17        1       SignalC11-1-D  PASSIVE     X015
+
+[00021] AAA20-X WH 0.35
+        X13        8       SignalC10-2-C  PASSIVE     X003
+        X15        2       SignalC10-2-C  PASSIVE     X014
+
+[00022] AAA19-X BK 0.35
+        X13        7       SignalC10-1-C  PASSIVE     X003
+        X15        1       SignalC10-1-C  PASSIVE     X014
+
+[00023] AAA18-X WH 0.35
+        X13        6       SignalC9-2-C   PASSIVE     X003
+        X14        2       SignalC9-2-C   PASSIVE     X013
+
+[00024] AAA17-X BK 0.35
+        X13        5       SignalC9-1-C   PASSIVE     X003
+        X14        1       SignalC9-1-C   PASSIVE     X013
+
+[00025] AAA16-X BK 0.35
+        X10        4       SignalC8-2-C   PASSIVE     X003
+        X12        2       SignalC8-2-C   PASSIVE     X012
+
+[00026] AAA15-X BK 0.35
+        X10        3       SignalC8-1-C   PASSIVE     X003
+        X12        1       SignalC8-1-C   PASSIVE     X012
+
+[00027] AAA14-X BK 0.35
+        X10        2       2SignalC-7-2-C PASSIVE     X003
+        X11        2       SignalC7-2-C   PASSIVE     X011
+
+[00028] AAA13-X BK 0.35
+        X10        1       SignalC7-1-C   PASSIVE     X003
+        X11        1       SignalC7-1-C   PASSIVE     X011
+
+[00029] AAA12-X BK 0.35
+        X7         8       SignalC6-2-B   PASSIVE     X002
+        X9         2       SignalC6-2-B   PASSIVE     X010
+
+[00030] AAA11-X BK 0.35
+        X7         7       SignalC6-1-B   PASSIVE     X002
+        X9         1       SignalC6-1-B   PASSIVE     X010
+
+[00031] AAA10-X WH 0.35
+        X7         6       SignalC5-2-B   PASSIVE     X002
+        X8         2       SignalC5-2-B   PASSIVE     X009
+
+[00032] AAA09-X BK 0.35
+        X7         5       SignalC5-1-B   PASSIVE     X002
+        X8         1       SignalC5-1-B   PASSIVE     X009
+
+[00033] AAA43-X PK 0.35
+        X3         3       SHT-CRC-1      PASSIVE     X006
+        X6         3       SHT-CRC-2      PASSIVE     X008
+        X6         4       SHT-CRC-3      PASSIVE     X008
+        X6         5       SHT-CRC-4      PASSIVE     X008
+        X31        13      SHORT CIRCUIT  PASSIVE     X003
+
+[00034] AAA08-X WH 0.35
+        X4         4       SignalC4-2-B   PASSIVE     X002
+        X6         2       SignalC4-2-B   PASSIVE     X008
+
+[00035] AAA07-X BK 0.35
+        X4         3       SignalC4-1-B   PASSIVE     X002
+        X6         1       SignalC4-1-B   PASSIVE     X008
+
+[00036] AAA06-X WH 0.35
+        X4         2       SignalC3-2-B   PASSIVE     X002
+        X5         2       SignalC3-2-B   PASSIVE     X007
+
+[00037] AAA05-X BK 0.35
+        X4         1       SignalC3-1-B   PASSIVE     X002
+        X5         1       SignalC3-1-B   PASSIVE     X007
+
+[00038] AAA04-X WH 0.35
+        X1         4       SignalC2-2-A   PASSIVE     X001
+        X3         2       SignalC2-2-A   PASSIVE     X006
+
+[00039] AAA03-X BK 0.35
+        X1         3       SignalC2-1-A   PASSIVE     X001
+        X3         1       SignalC2-1-A   PASSIVE     X006
+
+[00040] AAA02-X WH 0.35
+        X1         2       SignalC1-2-A   PASSIVE     X001
+        X2         2       SignalC1-2-A   PASSIVE     X005
+
+[00041] AAA01-X BK 0.35
+        X1         1       SignalC1-1-A   PASSIVE     X001
+        X2         1       SignalC1-1-A   PASSIVE     X005
+
